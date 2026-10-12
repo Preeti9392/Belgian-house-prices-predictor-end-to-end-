@@ -436,11 +436,11 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-**Preeti Gupta**  
+**Preeti Duhan**  
 Data Analyst | Machine Learning Enthusiast  
 
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](#) *(Add your LinkedIn)*  
-- 📧 Email: your.email@example.com *(Add your email)*  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/preeti-duhan/](#) 
+- 📧 Email: Preetiduhan9392@gmail.com 
 - 💼 Portfolio: [github.com/Preeti9392](https://github.com/Preeti9392)
 
 ---
